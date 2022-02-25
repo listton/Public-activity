@@ -6,9 +6,11 @@
 1. "Чистый код", Р. Мартин
 1. ⏳ "Теория игр", А. Диксит, Б. Нейлбафф
 1. "Икигай: Японские секреты долгой и счастливой жизни", Франсеск Миральес и соавторы (аудио)
-1. ⏳ "Good to Great: Why Some Companies Make the Leap...And Others Don't", Jim Collins (аудио)
-1. ⏳ "Deadline. Роман об управлении проектами", Том Демарко
+1. "Good to Great: Why Some Companies Make the Leap...And Others Don't", Jim Collins (аудио)
+1. "Deadline. Роман об управлении проектами", Том Демарко
 1. ⏳ "Harry Potter and the Order of the Phoenix", Д. Роулинг
+1. "Not Everyone Gets a Trophy: How to Manage the Millennials, Revised and Updated", Bruce Tulgan
+1. ⏳ "Структура и интерпретация компьютерных", Джеральд Сассман, Гарольд Абельсон
 
 ## 2021
 

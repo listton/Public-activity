@@ -11,6 +11,7 @@
 1. ⏳ "Harry Potter and the Order of the Phoenix", Д. Роулинг
 1. "Not Everyone Gets a Trophy: How to Manage the Millennials, Revised and Updated", Bruce Tulgan
 1. ⏳ "Структура и интерпретация компьютерных", Джеральд Сассман, Гарольд Абельсон
+1. "Терапия настроения. Клинически доказанный способ победить депрессию без таблеток", Дэвид Бернс (аудио) ([краткая личная рецензия](https://t.me/alistopadova/439))
 
 ## 2021
 

@@ -1,7 +1,7 @@
 # Ссылки на мои статьи, видео выступлений и материалы к докладам
 
 E-mail: [listopadova.antonina@gmail.com](listopadova.antonina@gmail.com)  
-[Instagram](https://www.instagram.com/listopadova.antonina.web/) | [YouTube](https://www.youtube.com/c/AntoninaListopadova) | [Patreon](https://www.patreon.com/listopadova_antonina) | [Что читаю](book_list.md)
+[Instagram](https://www.instagram.com/listopadova.antonina.web/) | [YouTube](https://www.youtube.com/c/AntoninaListopadova) | [Vk](https://vk.com/listopadova_a) | [Telegram (ru)](https://t.me/alistopadova) | [Telegram (en)](https://t.me/alistopadova_en) | [Что читаю](book_list.md)
 
 ## Content Indexing API: страницы, доступные в offline
 Rambler Frontend #9, 18.03.21

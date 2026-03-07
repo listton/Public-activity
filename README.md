@@ -4,7 +4,7 @@
 
 E-mail: [listopadova.antonina@gmail.com](listopadova.antonina@gmail.com)
 
-[Telegram](https://t.me/alistopadova) | [Instagram](https://www.instagram.com/listopadova.antonina.web/) | [YouTube](https://www.youtube.com/c/AntoninaListopadova) | [Vk](https://vk.com/listopadova_a) | [Sponsr](https://sponsr.ru/alistopadova/)
+[Telegram](https://t.me/alistopadova) | [Instagram](https://www.instagram.com/listopadova.antonina/) | [YouTube](https://www.youtube.com/c/AntoninaListopadova) | [Vk](https://vk.com/listopadova_a) | [Sponsr](https://sponsr.ru/alistopadova/)
 
 ## Содержание
 
